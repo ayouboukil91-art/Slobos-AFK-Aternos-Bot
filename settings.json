@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DZcraft_.aternos.me",
+    "ip": "boarfish.aternos.host",
     "port": 42211,
     "version": "",
     "try-creative": false
