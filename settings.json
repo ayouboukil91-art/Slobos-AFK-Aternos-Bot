@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DZcraft_.aternos.me",
+    "ip": "squirrel.aternos.host",
     "port": 42211,
     "version": "",
     "try-creative": false
